@@ -13,6 +13,7 @@ Input files can be protein sequences or CDS.
 ```
 wget https://github.com/euchrogene/InterProScan/raw/refs/heads/main/Install_InterProScan.sh
 sudo bash Install_InterProScan.sh
+rm sudo bash Install_InterProScan.sh
 ```
 
 2. display installed pipelines (or software)
