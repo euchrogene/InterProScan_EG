@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Configuration
-REPO_URL="https://github.com/euchrogene/InterProScan.git"
-REPO_DIR="InterProScan"
+REPO_URL="https://github.com/euchrogene/InterProScan_EG.git"
+REPO_DIR="InterProScan_EG"
 EXE_FILE="InterProScan"
 PIPELINE_ENTRY="$EXE_FILE => A software to perform protein functional analysis by classifying sequences into families and predicting domains and important sites."
 
