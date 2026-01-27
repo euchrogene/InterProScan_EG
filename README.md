@@ -18,7 +18,7 @@ sudo rm Install_InterProScan.sh
 
 2. display installed software
 ```
-eg-tools
+EG_tools
 ```
 
 3. download database for InterProScan (download it once and reuse it)
