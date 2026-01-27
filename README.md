@@ -18,7 +18,7 @@ sudo rm Install_InterProScan.sh
 
 2. display installed pipelines (or software)
 ```
-pipelines
+eg-tools
 ```
 
 3. download database for InterProScan (download it once and reuse it)
