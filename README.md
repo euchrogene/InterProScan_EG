@@ -4,7 +4,7 @@ InterProScan is a software to perform protein functional analysis by classifying
 families and predicting domains and important sites.
 
 To use this software, you must download the database for InterProScan first.
-You can follow the instruction to download the database.
+You can follow the instructions to download the database.
 Input files can be protein sequences or CDS.
 
 ## To install, copy and paste the following commands in a Jupyter Terminal, and execute:
@@ -16,7 +16,7 @@ sudo bash Install_InterProScan.sh
 sudo rm Install_InterProScan.sh
 ```
 
-2. display installed pipelines (or software)
+2. display installed software
 ```
 eg-tools
 ```
@@ -25,7 +25,7 @@ eg-tools
 ```
 InterProScan -download_database InterProScan_DB 
 ```
-You can change the DB name ('InterProScan_DB') that you want.
+You can change the DB name ('InterProScan_DB') to the one you want.
 The path of the DB will be the input of -db to run InterProScan.
 
 4. download example protein sequence
