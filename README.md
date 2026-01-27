@@ -1,4 +1,4 @@
-# This is for EuchroGene customers.
+# This is for EuchroGene Members.
 
 InterProScan is a software to perform protein functional analysis by classifying sequences into 
 families and predicting domains and important sites.
