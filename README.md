@@ -28,9 +28,14 @@ InterProScan -download_database InterProScan_DB
 You can change the DB name ('InterProScan_DB') that you want.
 The path of the DB will be the input of -db to run InterProScan.
 
+4. download example protein sequence
+```
+wget https://github.com/euchrogene/InterProScan_EG/raw/refs/heads/main/test_prot.fa
+```
+
 5. example command line
 ```
-InterProScan -db_path InterProScan_DB -i sequence_file.fa -dp -f TSV
+InterProScan -db_path InterProScan_DB -i test_prot.fa -dp -f TSV
 ```
 
 6. show help contents
