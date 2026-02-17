@@ -18,7 +18,7 @@ sudo mv EG_tools /usr/bin
 
 1. install the software:
 ```
-sudo EG_tools install -r https://github.com/euchrogene/InterProScan_EG.git -d InterProScan_EG -e InterProScan_v.1.0 -m "InterProScan_v.1.0 =>  A software to perform protein functional analysis by classifying sequences into families and predicting domains and important sites."
+sudo EG_tools install -r https://github.com/euchrogene/InterProScan_EG.git -d InterProScan_EG -e InterProScan_v.1.0 -m "A software to perform protein functional analysis by classifying sequences into families and predicting domains and important sites."
 ```
 
 2. display installed software
